@@ -1,2 +1,2 @@
 # ZIPuller
-Pull company employee from ZoomInfo
+Pull company employee names from ZoomInfo
